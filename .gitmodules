@@ -1,0 +1,3 @@
+[submodule "FST/fast_succinct_trie"]
+	path = FST/fast_succinct_trie
+	url = https://github.com/kampersanda/fast_succinct_trie
