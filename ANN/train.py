@@ -54,8 +54,7 @@ def main(codifica, file, batchsize, epochs, patience, modelstr, loss, nhidden, e
 	kk = int(np.ceil(penr*len_b)) # kk is the  fraction of strings to be enriched
 	Y = np.asarray(Y)
 
-#	lr_rates_refined = [5e-04, 1e-4, 5e-05, 1e-5, 5e-06]
-	lr_rates_refined = [5e-04, 1e-4]
+	lr_rates_refined = [5e-04, 1e-4, 5e-05, 1e-5, 5e-06]
 
 
 
