@@ -15,8 +15,11 @@ CNN 1D,895612,1.31E+04,1.26E+02,0.195,az-words_truncated20.txt
 "SMLP.[20, 50].step.2 bin input",895612,8.83E+04,2.94E+02,0.113,az-words_truncated20.txt
 ,,,,,
 "SMLP.[100, 50].step.10",988299,2.03E+03,4.28E+01,2.957,uk-2002_truncated20.txt
+"SMLP.[100, 50].step.10 no enrich",988299,3.59E+03,4.66E+01,2.957,uk-2002_truncated20.txt
 "SMLP.[50, 50].step.5",988299,2.52E+03,7.10E+01,1.228,uk-2002_truncated20.txt
+"SMLP.[50, 50].step.5 no enrich",988299,6.54E+03,7.44E+01,1.228,uk-2002_truncated20.txt
 "SMLP.[50, 50].step.10",988299,5.20E+03,8.24E+01,0.722,uk-2002_truncated20.txt
+"SMLP.[50, 50].step.10 no enrich",988299,5.17E+03,9.08E+01,0.722,uk-2002_truncated20.txt
 "SMLP.[30, 50].step.3",988299,3.69E+03,1.23E+02,0.687,uk-2002_truncated20.txt
 "SMLP.[20, 50].step.2",988299,7.10E+03,1.67E+02,0.448,uk-2002_truncated20.txt
 "LSTM.[20, 20, 50]",988299,4.52E+03,1.75E+02,0.44,uk-2002_truncated20.txt
