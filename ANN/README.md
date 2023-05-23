@@ -1,6 +1,6 @@
 # ANN-string-indexes
 
-To execute the `run_trainALL.sh` and `run_testALL.sh` executable, run the following commands (which require Python 3) in your terminal (Linux distriburion):
+To execute the `run_trainALL.sh` and `run_testALL.sh` scripts, run the following commands (which require Python 3) in your terminal (Linux distribution):
 
 ```
 python -m venv /path/to/new/virtual/environment
