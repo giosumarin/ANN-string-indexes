@@ -2,7 +2,8 @@
 
 To execute the `run_trainALL.sh` and `run_testALL.sh` executable, run the following commands (which require Python 3) in your terminal (Linux distriburion):
 
-```python -m venv /path/to/new/virtual/environment
+```
+python -m venv /path/to/new/virtual/environment
 source /path/to/new/virtual/environment/bin/activate
 pip install numpy==1.23.3 ray==2.0.0 tensorflow==2.8.0 click==8.0.3
 ```
